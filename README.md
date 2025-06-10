@@ -33,8 +33,7 @@ Use Ctrl+D to signal EOF and generate the machine code.
 
 Example:
 asm
-Copy
-Edit
+
 @2
 D=A
 @3
